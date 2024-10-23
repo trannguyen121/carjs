@@ -1,0 +1,55 @@
+/* .content{
+    height: 100px;
+    width: 160px;
+    border: 1px solid blue;
+} */
+
+.street{
+    background-image: url(../img/street.jpg);
+    height: 360px;
+    display: block;
+}
+.top{
+    display: flex;
+    gap: 10px;
+}
+.circle {
+    margin-left: 10px;
+    width: 80px;
+    height: 80px; 
+    border: 5px solid black; 
+    border-radius: 50%; 
+    background-color: transparent;
+}
+
+#bt{
+    margin-top: 10px;
+    width: 80px;
+    height: 70px;
+    background-color: black;
+    color: aqua;
+    margin-left: 25px;
+}
+.xang-wrap{
+    margin: 25px 0px;
+}
+.xang{
+    margin: 10px 0;
+    width: 250px;
+    height: 15px;
+    border: solid black;
+}
+#xang1{
+    background-color: red;
+}
+#xang2{
+    background-color: yellow;
+}
+.xe{
+    width: 280px;
+    height: 150px;
+    display: block;
+}
+.xevang{
+    margin-top: 60px;
+}
